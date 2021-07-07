@@ -1,0 +1,136 @@
+{
+    "Header": {
+
+        "title": "MHC MÜHENDİSLİK",
+        "paragraph": "Proje Maliyet Hesaplamalarının Çözüm Ortağı"
+
+    },
+    "About": {
+        "paragraph": "kamu kurum ve kuruluşlarına, yatırımcı firmalara ve mimarlık bürolarına, her ölçekteki altyapı ve üstyapı projelerinde mühendislik ve danışmanlık hizmeti vermek amacıyla kurulmuştur. Teknik Danışmanlık hizmetlerinde ülkemizin önde gelen mühendislik firmalarından biri olmayı kendine amaç edinmiş konusunda son derece deneyimli bir teknik kadro tarafından kurulmuştur. MHC, yakın zamanda kurulmuş olmasına rağmen birçok kamu kuruluşuna devamlı olarak danışmanlık hizmeti veren bir firma haline gelmiş olup gün geçtikçe başarı çıtasını yükseltmektedir. MHC, sorumluluğunu aldığı birçok büyük ve karmaşık projelerde göstermiş olduğu başarı ile aranılan ve tercih edilen bir firma haline gelmiştir. MHC, sahip olduğu nitelikli kadro ile sunduğu danışmanlık hizmetleri sayesinde konvansiyonel yöntemlere kıyasla yapım maliyetlerinde önemli tasarruflar elde edilmesini, aynı zamanda sürenin ve kalitenin yönetilmesi aracılığı ile tüm proje hedeflerinin gerçekleştirilmesini sağlamaktadır. MHC, çalışmalarını mümkün olan en kısa sürede, azami doğruluk ve güvenilirlik seviyesinde tamamlayarak İşveren memnuniyetini hedeflemekte, İşverenin iş süreçlerine ve kalite anlayışlarına önemli katkı sağlamaktadır."
+    },
+    "Services": [{
+            "icon": "fa fa-cart-arrow-down",
+            "name": "KAMU İHALE DANIŞMANLIĞI",
+            "text": [
+                "Detaylı Metrajların Hazırlanması",
+                "Birim Fiyat Analizleri",
+                "Proforma Temini ve Özel Birim Fiyat Analizleri",
+                "Yaklaşık Maliyet Keşif Hazırlanması",
+                "Pursantajların Hazırlanması",
+                "Aşırı Düşük Sorgu Listesinin Belirlenmesi",
+                "İlgili İdare Formatında Sunumun Yapılması"
+            ]
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "MALİYET DANIŞMANLIĞI",
+            "text": [
+                "Detaylı Metrajların Hazırlanması",
+                "Yapım Maliyetlerinin Çıkarılması",
+                "Endirekt Giderlerin Hesaplanması",
+                "Teklif Dosyasının Hazırlanması",
+                "Mukayeseli Keşif",
+                "Kesin Hesap"
+            ]
+                },
+                {
+                    "icon": "fa fa-cart-arrow-down",
+                    "name": "PROJE YÖNETİM DANIŞMANLIĞI",
+                    "text": [
+                        "Tasarım Danışmanlığı ve Yönetimi",
+                        "Satınalma ve İhale Hizmetleri",
+                        "Bütçe Yönetimi ve Planlama",
+                        "Saha Kontrollük Hizmetleri",
+                        "Periyodik Raporlama Hizmetleri",
+                        "Hakediş Takibi ve Taşeron İlişkileri Yönetimi",
+                        "İletişim ve doküman yönetimi",
+                        "Kabul ve işletmeye alma çalışmaları"
+                    ]
+                        },
+                        {
+                            "icon": "fa fa-cart-arrow-down",
+                            "name": "YATIRIM DANIŞMANLIĞI",
+                            "text": [
+                                "Fizibilite Raporlarının Hazırlanması",
+                                "Ön Bütçenin Oluşturulması",
+                                "Proje Koordinasyonu",
+                                "Değer Mühendisliği"
+                            ]
+                                }
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "İvedik OSB Mahallesi 2224. Cad. B Blok No: 1/136  Yenimahalle / Ankara / TÜRKİYE ",
+        "phone": "+1 123 456 1234",
+        "email": "info@mhcinsaat.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-group",
+            "title": "Çözüm Ortağı",
+            "text": "Sahip olduğumuz nitelikli kadro ile sunduğumuz danışmanlık hizmetleri sayesinde konvansiyonel yöntemlere kıyasla yapım maliyetlerinde önemli tasarruflar elde edilmesini, aynı zamanda sürenin ve kalitenin yönetilmesi aracılığı ile tüm proje hedeflerinin gerçekleştirilmesini sağlamaktayız"
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Yüksek Standartlar",
+            "text": "Şirketimiz çalışmalarını mümkün olan en kısa sürede, azami doğruluk ve güvenilirlik seviyesinde tamamlayarak işveren memnuniyetini hedeflemekte, işverenin iş süreçlerine ve kalite anlayışlarına önemli katkı sağlamaktadır."
+        },
+        {
+            "icon": "fa fa-comments-o",
+            "title": "Profesyonel Ekip",
+            "text": "Alanında uzman çalışma arkadaşlarımız ile en doğru çözümlerle hizmet vermekteyiz"
+        }
+    ]
+}
